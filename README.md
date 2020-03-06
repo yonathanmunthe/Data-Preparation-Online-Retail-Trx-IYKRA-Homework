@@ -1,7 +1,9 @@
 # Data-Preparation-Online-Retail-Trx-IYKRA-Homework
-Git homework IYKRA untuk latihan Data Preparation (Cleansing and Formatting) untuk data Online Retail Trx
-Code ini bertujuan untuk melakukan data preparation sehingga data siap dipakai untuk melakukan suatu analisis terhadap Online Retail Trx,
-yaitu analisis RFM (Recency, Frequency dan Monetary) sehingga dapat dilihat persebaran jenis customer berdasarkan :
-1. Recency, yaitu seberapa terkini-nya transaksi customer tersebut;
-2. Frequency, yaitu seberapa besar jumlah transaksi (count) customer tersebut; dan
-3. Monetary, yaitu seberapa besar jumlah total harga transaksi (sum) customer tersebut dalam rupiah atau dollar.
+This is my homework for my Offline Training at IYKRA, Jakarta, Indonesia.
+
+I am going to do Data Preparation (Cleansing and Formatting) with the Online Retail Transaction Data you can find online. Later on, the cleansed data may be used for Recency, Frequency and Monetary Analysis (RFM Analysis) with Clustering Machine Learning Model to find out the clusters / groups of the customers and their behaviour. With the known behaviour of each group, we can make a good business decision and marketing campaign and promos to boost business growth (transaction volume and value in USD).  
+
+Below is the explanation for Recency, Frequency and Monetary :
+1. Recency : how recent the last transaction made by the customer in days (today's date - last transaction date);
+2. Frequency : how many transactions made by the customer (count of transaction) from a point of time until today's date; dan
+3. Monetary : the total value of all transactions made by the customer (sum of transaction value) from a point of time until today's date.
