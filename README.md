@@ -5,5 +5,5 @@ I am going to do Data Preparation (Cleansing and Formatting) with the Online Ret
 
 Below is the explanation for Recency, Frequency and Monetary :
 1. Recency : how recent the last transaction made by the customer in days (today's date - last transaction date);
-2. Frequency : how many transactions made by the customer (count of transaction) from a point of time until today's date; dan
+2. Frequency : how many transactions made by the customer (count of transaction) from a point of time until today's date; and
 3. Monetary : the total value of all transactions made by the customer (sum of transaction value) from a point of time until today's date.
